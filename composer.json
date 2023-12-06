@@ -4,7 +4,7 @@
     "type": "cakephp-plugin",
     "require": {
         "php": "^7.2 || ^8.0",
-        "cakephp/cakephp": "^4.0",
+        "cakephp/cakephp": "^5.0",
         "sentry/sentry": "^3.2"
     },
     "require-dev": {
@@ -33,11 +33,9 @@
     "config": {
         "sort-packages": true
     },
-    "authors": [
-        {
-            "name": "Hideki Kinjyo",
-            "email": "dev@o0h.in",
-            "role": "Maintainer"
-        }
-    ]
+    "authors": [{
+        "name": "Hideki Kinjyo",
+        "email": "dev@o0h.in",
+        "role": "Maintainer"
+    }]
 }
